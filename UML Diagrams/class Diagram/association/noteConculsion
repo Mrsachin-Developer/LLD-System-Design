@@ -1,0 +1,2 @@
+when an object can exist independently ---> use simple association
+when an object is dependent on other object --> use aggregation or composition (it is subjective )
